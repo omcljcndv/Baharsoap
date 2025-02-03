@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أنواع الصوابين الطبيعية</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            direction: rtl;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            padding: 20px;
+        }
+        .soap {
+            background-color: white;
+            border-radius: 8px;
+            width: 250px;
+            margin: 15px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .soap img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .soap h3 {
+            color: #333;
+        }
+        .soap p {
+            color: #777;
+            font-size: 14px;
+        }
+        .soap .title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .soap .details {
+            font-size: 12px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>أنواع الصوابين الطبيعية وفوائدها</h1>
+</header>
+
+<div class="container">
+    <!-- صابونة الفحم النشط -->
+    <div class="soap">
+        <img src="https://via.placeholder.com/250x150" alt="صابونة الفحم النشط">
+        <h3 class="title">صابونة الفحم النشط</h3>
+        <p class="details">صابونة الفحم النشط تساعد في تنقية البشرة من السموم والشوائب، وتعالج حب الشباب وتزيل الأوساخ بعمق.</p>
+        <p>مكوناتها الطبيعية تعمل على تنظيف المسام بفعالية، مما يجعلها خيارًا رائعًا للبشرة الدهنية والمعرضة لحب الشباب.</p>
+    </div>
+
+    <!-- صابونة زيت الزيتون -->
+    <div class="soap">
+        <img src="https://via.placeholder.com/250x150" alt="صابونة زيت الزيتون">
+        <h3 class="title">صابونة زيت الزيتون</h3>
+        <p class="details">تحتوي صابونة زيت الزيتون على خصائص مرطبة ومغذية، فهي تساهم في تحسين مرونة البشرة وتجعلها ناعمة وصحية.</p>
+        <p>مثالية للبشرة الجافة والمتهيجة، حيث تقوم بتوفير الترطيب الطبيعي وتحمي البشرة من العوامل الخارجية الضارة.</p>
+    </div>
+
+    <!-- صابونة اللافندر -->
+    <div class="soap">
+        <img src="https://via.placeholder.com/250x150" alt="صابونة اللافندر">
+        <h3 class="title">صابونة اللافندر</h3>
+        <p class="details">صابونة اللافندر تتميز برائحتها المهدئة وتساعد في الاسترخاء، كما تعزز صحة البشرة بفضل خصائصها المضادة للبكتيريا.</p>
+        <p>تساهم في تقليل التوتر والقلق، وتعد مثالية للبشرة الحساسة أو المتعبة.</p>
+    </div>
+
+    <!-- صابونة العسل -->
+    <div class="soap">
+        <img src="https://via.placeholder.com/250x150" alt="صابونة العسل">
+        <h3 class="title">صابونة العسل</h3>
+        <p class="details">العسل معروف بخصائصه المضادة للبكتيريا، وصابونة العسل تساعد على ترطيب البشرة وتنظيفها بشكل لطيف.</p>
+        <p>مناسبة لجميع أنواع البشرة، كما أنها تساعد في تجديد الخلايا وتعزز إشراقة البشرة.</p>
+    </div>
+
+    <!-- صابونة الغليسرين -->
+    <div class="soap">
+        <img src="https://via.placeholder.com/250x150" alt="صابونة الغليسرين">
+        <h3 class="title">صابونة الغليسرين</h3>
+        <p class="details">صابونة الغليسرين هي صابونة طبيعية تعمل على ترطيب البشرة بعمق وتساعد في الحفاظ على توازن الرطوبة.</p>
+        <p>مثالية للبشرة الجافة والمتهيجة، حيث تمنحها نعومة وحيوية.</p>
+    </div>
+</div>
+
+<div class="container">
+    <!-- صابونة بهار -->
+    <div class="soap">
+        <img src="https://via.placeholder.com/250x150" alt="صابونة بهار">
+        <h3 class="title">صابونة بهار</h3>
+        <p class="details">صابونة بهار هي صابونة طبيعية تحتوي على مكونات نباتية عالية الجودة مثل الأعشاب والزيوت الطبيعية.</p>
+        <p>تعمل على تنقية البشرة وتحسين مرونتها بفضل مكوناتها العضوية.</p>
+    </div>
+</div>
+
+</body>
+</html>
